@@ -14,7 +14,6 @@ import { selectUser } from './features/userSlice';
 import FlipMove from 'react-flip-move';
 
 function Feed() {
-
   const user = useSelector(selectUser);
   const [input, setInput] = useState("");
   const [posts, setPosts] = useState([]);
