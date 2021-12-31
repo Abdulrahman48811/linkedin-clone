@@ -2,10 +2,10 @@
 
 
 
-## This is the Register Page of the LinkedIn Clone App
+### `This is the Register Page of the LinkedIn Clone App`
 !["Screenshot of URLs page"](https://github.com/Abdulrahman48811/linkedin-clone/blob/931177d3de7d5a4a850823a5d2b53b0a9a381d95/public/linkedin-clone-SS/linkedin-cloneRegister.png)
 
-## This is the Home Page of the LinkedIn Clone App 
+### `This is the Home Page of the LinkedIn Clone App` 
 !["Screenshot of URLs page"](https://github.com/Abdulrahman48811/linkedin-clone/blob/931177d3de7d5a4a850823a5d2b53b0a9a381d95/public/linkedin-clone-SS/linkedin-clone-HomePage.png)
 
 
