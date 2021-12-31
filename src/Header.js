@@ -7,9 +7,9 @@ import SupervisorAccountIcon from '@material-ui/icons/SupervisorAccount';
 import BusinessCenterIcon from '@material-ui/icons/BusinessCenter';
 import ChatIcon from '@material-ui/icons/Chat';
 import NotificationsIcon from '@material-ui/icons/Notifications';
-import { useDispatch, useSelector } from "react-redux";
+import { useDispatch, /* useSelector */} from "react-redux";
 import { auth } from "./firebase";
-import { logout, selectUser } from "./features/userSlice";
+import { logout, /* selectUser */} from "./features/userSlice";
 function Header() {
 
   const dispatch = useDispatch();
