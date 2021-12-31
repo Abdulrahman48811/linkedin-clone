@@ -1,4 +1,4 @@
-## This is a linkedin clone. Also my first ever clone. (Firebase)
+## This is a linkedin clone/My first ever clone. (Firebase)
 
 ![This is the Register Page of the LinkedIn Clone App] (https://github.com/Abdulrahman48811/linkedin-clone/blob/931177d3de7d5a4a850823a5d2b53b0a9a381d95/public/linkedin-clone-SS/linkedin-cloneRegister.png)
 
